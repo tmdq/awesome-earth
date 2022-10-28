@@ -237,6 +237,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [Zellar](https://zellar.com/) - Get an energy profile for your company to understand your energy consumption, and how much CO2 is being generated to power your business. We’ll then let you compare your profile to other local businesses or similar businesses across the UK, then track performance over time. Get advice and even unlock funds to finance any investments you may need to make on your journey to zero carbon.
 - [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
+- [Zerofy](https://www.zerofy.net) - Automated and real-time carbon footprint tracking app for households and individuals. Zerofy first helps you measure your household’s carbon emissions automated and in real-time. You can then reduce carbon emissions by switching to low carbon energy and products.  
 ## Home Improvements
 - [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
 - [Barry](https://barry.energy) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
